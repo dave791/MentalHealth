@@ -1,5 +1,5 @@
 # Mental
-Hackathon 2019: Team WIT
+Hackathon 2019: Team codeToWin
 
 # Windows User:
 Please do the following:
